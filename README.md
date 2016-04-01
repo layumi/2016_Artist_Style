@@ -1,0 +1,18 @@
+# 2016_Art_Style
+A Neural Algorithm of Artistic style arXiv:1508.06576v2
+I include train and test code in master branch.
+
+# Result
+![](https://github.com/layumi/2016_Artist_Style/blob/master/4.jpg)
+ 
+![](https://github.com/layumi/2016_Artist_Style/blob/master/1.jpg) 
+![](https://github.com/layumi/2016_Artist_Style/blob/master/demo.jpg) 
+
+original pic -> super resolution pic (trained by matconvnet)
+
+# How to train & test
+1.You may compile matconvnet first by running gpu_compile.m  (you need to change some setting in it)
+
+For more compile information, you can learn it from www.vlfeat.org/matconvnet/install/#compiling
+
+2.Use test_vgg19.m to have fun~
