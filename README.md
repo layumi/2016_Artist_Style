@@ -5,6 +5,8 @@ I include train and test code in master branch.
 The model 'vgg-verydeep-19' is also included in /data.
 (Your GPU memory should >= 4GB)
 
+<img width="540" alt="f7bdb46c-80d4-45c3-a70f-8c2ba1c13472" src="https://cloud.githubusercontent.com/assets/8390471/14660630/a353b504-06d9-11e6-899c-a811413a2b53.png">
+
 # Result
 ![](https://github.com/layumi/2016_Artist_Style/blob/master/4.jpg)
  
