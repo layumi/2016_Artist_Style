@@ -3,6 +3,7 @@ A Neural Algorithm of Artistic style arXiv:1508.06576v2
 
 I include train and test code in master branch.
 The model 'vgg-verydeep-19' is also included in /data.
+(Your GPU memory should >= 4GB)
 
 # Result
 ![](https://github.com/layumi/2016_Artist_Style/blob/master/4.jpg)
